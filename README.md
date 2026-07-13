@@ -37,6 +37,10 @@
 
 </div>
 
+<div align="center">
+<img src="assets/terminal-card.svg" alt="about me terminal card" width="85%"/>
+</div>
+
 <img src="assets/divider.svg" width="100%" alt="divider"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Robot.png" width="32" height="32" alt="🤖"/> About Me
@@ -56,10 +60,6 @@
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="assets/terminal-card.svg" alt="about me terminal card" width="85%"/>
-</div>
 
 <img src="assets/divider.svg" width="100%" alt="divider"/>
 
