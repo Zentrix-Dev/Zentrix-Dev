@@ -12,7 +12,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=720&height=80&lines=Frontend+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+TypeScript;UI%2FUX+Enthusiast+%7C+Open+Source+Learner;Currently+learning+Backend+Development..." alt="Typing SVG"/>
 
+
+
 <br/>
+
+
 
 <a href="https://github.com/Zentrix-Dev?tab=followers"><img src="https://img.shields.io/github/followers/Zentrix-Dev?label=Followers&style=flat-square&color=38BDF8&logo=github" alt="Followers"/></a>
 <img src="https://komarev.com/ghpvc/?username=Zentrix-Dev&label=Profile+Views&color=1E90FF&style=flat-square&logo=eye" alt="Profile views"/>
@@ -24,21 +28,9 @@
 
 <img src="assets/divider.svg" width="100%" alt="divider"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Detective.png" width="32" height="32" alt="🔍"/> Quick Navigation
-
 
 <div align="center">
-
-
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| [About](#about-me) | [Focus](#current-focus) | [Stack](#tech-stack) | [Projects](#featured-projects) | [Stats](#github-stats) |
-| [Snake](#contribution-snake) | [Roadmap](#learning-roadmap) | [Quote](#dev-quote) | [Support](#support) | [Connect](#connect-with-me) |
-
-</div>
-
-<div align="center">
-<img src="assets/terminal-card.svg" alt="about me terminal card" width="85%"/>
+<img src="assets/terminal-card.svg" alt="about me terminal card" width="100%"/>
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="divider"/>
