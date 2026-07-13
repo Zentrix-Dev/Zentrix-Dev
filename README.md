@@ -112,14 +112,12 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
-
-> _Pin your real repositories below — each card follows the same `github-readme-stats` pin format, themed to match this profile._
+<div align="center"> 
 
 <br/>
 
-<a href="https://github.com/Zentrix-Dev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zentrix-Dev&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=38BDF8&text_color=93C5FD&icon_color=1E90FF" alt="Repo 1 pin"/>
+<a href="https://github.com/Zentrix-Dev/ZentrixStream">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Zentrix-Dev&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=38BDF8&text_color=93C5FD&icon_color=1E90FF" alt="ZentrixStream"/>
 </a>
 <a href="https://github.com/Zentrix-Dev">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zentrix-Dev&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=38BDF8&text_color=93C5FD&icon_color=1E90FF" alt="Repo 2 pin"/>
@@ -134,13 +132,13 @@
 
 <br/>
 
-<sub>Replace <code>REPO_1</code> … <code>REPO_4</code> with the names of repos you want to showcase. Use the snippet below for each card:</sub>
+<sub>Replace <code>ZentrixStream</code> … <code>REPO_4</code> with the names of repos you want to showcase. Use the snippet below for each card:</sub>
 
-```md
-<a href="https://github.com/Zentrix-Dev/REPO_NAME">
+
+<a href="https://github.com/Zentrix-Dev/ZentrixStream">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zentrix-Dev&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=38BDF8&text_color=93C5FD&icon_color=1E90FF" alt="REPO_NAME"/>
 </a>
-```
+
 
 </div>
 
