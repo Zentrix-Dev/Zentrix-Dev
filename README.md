@@ -42,24 +42,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Robot.png" width="32" height="32" alt="🤖"/> About Me
 
 <table>
-<tr>
-<td width="55%" valign="center">
-
-```txt
-zentrixdev@linux:~$ whoami
-
-> Frontend Developer based on the web
-> Passionate about clean UI and fast, accessible interfaces
-> I turn design ideas into working, responsive products
-> Learning to connect the frontend to real backends
-> I edit video on the side — visual storytelling carries
-  over into how I think about interface motion
-> Long-term goal: full-stack developer shipping
-  end-to-end products, solo or on a team
-```
-
-</td>
-<td width="45%" valign="center">
+<td width="45%" valign="left">
 
 - 🖥️ **Daily driver:** Linux
 - 🧠 **Currently learning:** Node.js, Express, REST APIs
