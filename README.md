@@ -26,7 +26,9 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Detective.png" width="32" height="32" alt="🔍"/> Quick Navigation
 
+
 <div align="center">
+
 
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
@@ -41,7 +43,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="55%" valign="center">
 
 ```txt
 zentrixdev@linux:~$ whoami
@@ -57,7 +59,7 @@ zentrixdev@linux:~$ whoami
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="45%" valign="center">
 
 - 🖥️ **Daily driver:** Linux
 - 🧠 **Currently learning:** Node.js, Express, REST APIs
