@@ -4,17 +4,28 @@
 
 <img src="assets/terminal-banner.svg" alt="Zentrix-Dev terminal banner" width="100%"/>
 
+
 <br/>
+
 
 <img src="assets/logo.svg" alt="Zentrix-Dev logo" width="110" height="110"/>
 
+
 <h1>Hi there, I'm <code>Zentrix-Dev</code> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20Emojis/Waving%20Hand.png" width="28" height="28" alt="👋"/></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=720&height=80&lines=Frontend+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+TypeScript;UI%2FUX+Enthusiast+%7C+Open+Source+Learner;Currently+learning+Backend+Development..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&width=720&height=80&lines=Frontend+Developer+%7C+React+%C2%B7+Next.js+%C2%B7+TypeScript;UI%2FUX+Enthusiast+%7C+Open+Source+Learner..." alt="Typing SVG"/>
+
+
+
+
+
 
 
 
 <br/>
+
+
+
 
 
 
@@ -35,7 +46,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="divider"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smileys/Robot.png" width="32" height="32" alt="🤖"/> About Me
+## 🤖 About Me
 
 <table>
 <td width="45%" valign="left">
@@ -55,7 +66,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="divider"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="32" height="32" alt="🚀"/> Current Focus
+## 🚀 Current Focus
 
 <div align="center">
 
@@ -69,7 +80,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="divider"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" height="32" alt="🛠️"/> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -99,7 +110,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="divider"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" width="32" height="32" alt="📌"/> Featured Projects
+## 📌 Featured Projects
 
 <div align="center">
 
@@ -175,7 +186,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="divider"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="32" height="32" alt="🐍"/> Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -190,7 +201,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="divider"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="32" height="32" alt="📚"/> Learning Roadmap
+## 📚 Learning Roadmap
 
 <div align="center">
 
@@ -228,7 +239,7 @@ graph LR
 
 <img src="assets/divider.svg" width="100%" alt="divider"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Thought%20Balloon.png" width="32" height="32" alt="💬"/> Dev Quote
+## 💬 Dev Quote
 
 <div align="center">
 
