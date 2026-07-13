@@ -1,0 +1,10 @@
+# GitHub Sponsors "Sponsor" button configuration.
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+#
+# Uncomment the lines for the platforms you actually use, and replace
+# the placeholder values with your real usernames / links.
+
+# github: Zentrix-Dev
+# ko_fi: zentrixdev
+# buy_me_a_coffee: zentrixdev
+# custom: ["https://your-own-donation-link.example.com"]

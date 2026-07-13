@@ -1,0 +1,14 @@
+<svg width="1000" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="section divider">
+  <defs>
+    <linearGradient id="dividerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00BFFF" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#1E90FF" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#3B82F6" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00BFFF" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1000 0; 1000 0; -1000 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#dividerGrad)"/>
+</svg>

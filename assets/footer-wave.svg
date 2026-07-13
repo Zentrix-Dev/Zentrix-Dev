@@ -1,0 +1,39 @@
+<svg width="1000" height="160" viewBox="0 0 1000 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="footer wave">
+  <defs>
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A0F1E" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#1E90FF" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#0A0F1E" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0A0F1E" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0A0F1E" stop-opacity="0.2"/>
+    </linearGradient>
+    <linearGradient id="waveBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#020409" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#020409" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="160" fill="url(#waveBg)"/>
+
+  <path fill="url(#waveGrad1)" opacity="0.55">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="
+      M0,80 C150,40 350,120 500,80 C650,40 850,120 1000,80 L1000,160 L0,160 Z;
+      M0,90 C150,120 350,40 500,90 C650,140 850,40 1000,90 L1000,160 L0,160 Z;
+      M0,80 C150,40 350,120 500,80 C650,40 850,120 1000,80 L1000,160 L0,160 Z"/>
+  </path>
+
+  <path fill="url(#waveGrad2)" opacity="0.85">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="
+      M0,110 C200,80 300,140 500,110 C700,80 800,140 1000,110 L1000,160 L0,160 Z;
+      M0,100 C200,140 300,80 500,100 C700,140 800,80 1000,100 L1000,160 L0,160 Z;
+      M0,110 C200,80 300,140 500,110 C700,80 800,140 1000,110 L1000,160 L0,160 Z"/>
+  </path>
+
+  <text x="500" y="140" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="13" fill="#93C5FD" opacity="0.85">© 2026 Zentrix-Dev  —  Built with care from the terminal</text>
+</svg>

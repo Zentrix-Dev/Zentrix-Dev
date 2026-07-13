@@ -1,0 +1,22 @@
+<svg width="880" height="140" viewBox="0 0 880 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="contribution snake placeholder">
+  <!--
+    This file is a seed placeholder generated so the README link resolves
+    before the first run of .github/workflows/snake.yml.
+    Once GitHub Actions runs on push to main (or on schedule), the
+    Platane/snk action overwrites this file with the real animated
+    contribution snake generated from the live contribution graph.
+  -->
+  <defs>
+    <linearGradient id="phBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#020409"/>
+      <stop offset="50%" stop-color="#0A0F1E"/>
+      <stop offset="100%" stop-color="#020409"/>
+    </linearGradient>
+  </defs>
+  <rect width="880" height="140" fill="url(#phBg)" rx="8"/>
+  <rect x="1" y="1" width="878" height="138" rx="8" fill="none" stroke="#1E293B" stroke-width="1"/>
+  <text x="440" y="70" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="16" fill="#38BDF8">~ awaiting first contribution snake render ~</text>
+  <text x="440" y="92" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Courier New',monospace"
+        font-size="12" fill="#475569">.github/workflows/snake.yml  →  push to main or 00:00 UTC daily</text>
+</svg>

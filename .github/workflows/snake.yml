@@ -1,0 +1,69 @@
+name: Generate Contribution Snake
+
+# Regenerates the animated contribution-graph snake and commits it to
+# resources/images/github-contribution-grid-snake.svg (and the dark variant).
+#
+# Runs:
+#   - once a day at 00:00 UTC
+#   - on every push to main (only when relevant paths change)
+#   - manually via workflow_dispatch
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Avoid overlapping runs that fight over the same commit
+concurrency:
+  group: snake-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Generate contribution snake SVG (light + dark)
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: Zentrix-Dev
+          outputs: |
+            resources/images/github-contribution-grid-snake.svg?color_snake=%2338BDF8&color_dots=%230A0F1E,%23164E63,%231E90FF,%2338BDF8,%2300BFFF
+            resources/images/github-contribution-grid-snake-dark.svg?palette=github-dark
+          svg_out_dir: resources/images
+
+      - name: Verify SVGs were generated
+        run: |
+          set -euo pipefail
+          for f in resources/images/github-contribution-grid-snake.svg \
+                   resources/images/github-contribution-grid-snake-dark.svg; do
+            if [ ! -s "$f" ]; then
+              echo "ERROR: $f was not generated or is empty"
+              exit 1
+            fi
+            echo "OK: $f ($(wc -c < "$f") bytes)"
+          done
+
+      - name: Commit generated snake to main
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update contribution snake [skip ci]"
+          file_pattern: "resources/images/*.svg"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
